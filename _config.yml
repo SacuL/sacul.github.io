@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "pt-BR"
-title                    : "Site Title"
+title                    : "Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Lucas Cerqueira"
-description              : "An amazing website."
+description              : "Um blog com um pouco de tudo."
 url                      : "https://sacul.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "SacuL/sacul.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,9 +95,9 @@ analytics:
 author:
   name             : "Lucas Cerqueira"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Eu não sô besta."
   location         : "Brasil"
-  email            : "lucas44r em gmail"
+  email            : # ""
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -114,6 +114,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/SacuL"
+    - label: "Linked In"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/lucasaar/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -136,6 +139,9 @@ footer:
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
+    - label: "Linked In"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/lucasaar/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
